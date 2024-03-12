@@ -131,7 +131,7 @@ router.all(/^\/admin\/config$/, async(req, res, next) => {
 					${tsver('4.19.0')}
 					${tsver('4.20.0')}
 					${tsver('4.22.4')}
-					${tsver('4.22.5')}
+					${tsver('4.22.9')}
 					${tsver('4.22.7')}
 				</select>
 				<p id=theseedVersionDescription></p>
