@@ -45,6 +45,7 @@ async function init() {
 		host: input('호스트 주소: '),
 		port: input('포트 번호: '),
 		skin: input('기본 스킨 이름: '),
+		theseed_version: input('더시드 버전: '),
 		search_host: '127.5.5.5',
 		search_port: '25005',
 		file_host: '127.5.5.5',
