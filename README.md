@@ -13,6 +13,7 @@
 - [내 서버](https://go2021.glitch.me) - the seed 4.11.2
 - ~~[test님의 서버](https://seore.org) - the seed 4.20.0, Nuxt.js로 포팅됨~~
 - [테스트위키](https://testwiki.kr) - the seed 4.22.9
+- [솔루션위키](http://solutionwiki.enhawiki.kr:3000) - the seed 4.22.9
 
 나무픽스와 거의 호환된다.
 
